@@ -1,0 +1,16 @@
+id,name,type,x,y
+0,Central Junction,JUNCTION,450,450
+1,North Junction,JUNCTION,450,250
+2,South Junction,JUNCTION,450,650
+3,East Junction,JUNCTION,700,450
+4,West Junction,JUNCTION,200,450
+5,North-West Junction,JUNCTION,200,250
+6,North-East Junction,JUNCTION,700,250
+7,South-West Junction,JUNCTION,200,650
+8,South-East Junction,JUNCTION,700,650
+9,St. Mary Hospital,HOSPITAL,200,120
+10,East General Hospital,HOSPITAL,900,450
+11,South Central Hospital,HOSPITAL,450,880
+12,West Ambulance Station,STATION,80,450
+13,North Ambulance Station,STATION,450,80
+14,East Ambulance Station,STATION,880,760

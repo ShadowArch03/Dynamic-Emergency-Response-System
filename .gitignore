@@ -1,0 +1,8 @@
+build/
+*.o
+td
+tdisp
+tg
+tm
+tpq
+report.txt
